@@ -1,1 +1,1 @@
-# Axolex PDF signing
+# Axolex PDF signing using GlobalSign and iText
